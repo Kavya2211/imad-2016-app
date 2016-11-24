@@ -4,6 +4,7 @@ body {
     margin-top: 75px;
 }
 
+
 .center {
     text-align: center;
 }
@@ -18,5 +19,12 @@ body {
 
 .img-medium {
     height: 200px;
+}
+
+.head{
+    text-align: left;
+    font-weight:bold;
+    font-family: sans-serif;
+    color: chocolate;
 }
 
