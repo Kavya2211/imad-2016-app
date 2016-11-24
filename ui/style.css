@@ -20,12 +20,17 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.obj1{
+    text-align: center;
+     font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+     color: #fff;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
 .head{
     text-align: left;
     font-weight:bold;
-    font : Arizonia;
-    color: Chocolate;
-   
+     font: 400 100px/1.3 'Arizonia', Helvetica, sans-serif;
+     color: #2b2b2b;
+     text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
 }
 
